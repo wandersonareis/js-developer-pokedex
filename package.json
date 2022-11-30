@@ -1,0 +1,21 @@
+{
+  "name": "js-developer-pokedex-main",
+  "version": "1.0.0",
+  "description": "Projeto feito para pro em prática todo o conhecimento aprendendido em HTML, CSS, JS e com consumo de API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandersonareis/js-developer-pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandersonareis/js-developer-pokedex/issues"
+  },
+  "homepage": "https://github.com/wandersonareis/js-developer-pokedex#readme"
+}
